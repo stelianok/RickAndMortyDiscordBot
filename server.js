@@ -81,7 +81,7 @@ client.on('ready', () => {
         guild.channels.cache.forEach((channel) => {
             console.log(` - ${channel.name} ${channel.type} ${channel.id}`)
         })
-        //general: 701144795615330364
+
     })
 
     // essa linha define o canal
