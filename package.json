@@ -1,0 +1,20 @@
+{
+  "name": "rick_sanchez",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "express": "^4.17.1",
+    "rickmortyapi": "^0.3.0"
+  },
+  "devDependencies": {
+    "eslint": "5.16.0",
+    "nodemon": "^2.0.4"
+  }
+}
