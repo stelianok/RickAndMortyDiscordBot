@@ -25,11 +25,11 @@ Um bot do discord que utiliza a api "The rick and morty API para retornar dados 
 
 ## Sumário 🛰
 
-- [Sobre 📖](#Sobre-)
-- [Instalação 👷‍♂️](#Instalação)
-- [Funcionalidades 🛠✨](#Funcionalidades)
-- [Contribuição 🤗](#Contribuição)
-- [Contato 💼](#Contato)
+- [Sobre 📖](#sobre-)
+- [Instalação 👷‍♂️](#instalação-%EF%B8%8F)
+- [Funcionalidades 🛠✨](#funcionalidades-)
+- [Contribuição 🤗](#Contribuição-)
+- [Contato 💼](#Contato-)
 - [Licença 👨‍⚖️](#Licença)
 
 
@@ -76,7 +76,7 @@ Ex `!personagem 1`
 
 ---
 
-## Contributing 🤗
+## Contribuição 🤗
 
 Eu acho que existem diversas maneiras de contribuir para esse bot, ou adicionar funcionalidades extras. A api utilizada é bem grande, e eu implementei apenas 2 de diversas funcionalidades que poderiam ser criadas com os dados fornecidos. O código também pode ser melhorado muito, através da implementação  de uma organização melhor, 
 modularização, etc...
@@ -102,7 +102,7 @@ modularização, etc...
 
 ---
 
-## Contact 💼
+## Contato 💼
 
 <a href="https://github.com/stelianok" target="_blank">**Kauã Steliano**</a> |
 | :---: 
@@ -121,7 +121,7 @@ Github:
 
 ---
 
-## License 👨‍⚖️
+## Licença 👨‍⚖️
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
