@@ -30,7 +30,7 @@ Um bot do discord que utiliza a api "The rick and morty API para retornar dados 
 - [Funcionalidades 🛠✨](#funcionalidades-)
 - [Contribuição 🤗](#Contribuição-)
 - [Contato 💼](#Contato-)
-- [Licença 👨‍⚖️](#Licença)
+- [Licença 👨‍⚖️](#licença-%EF%B8%8F)
 
 
 ## Sobre 📖
